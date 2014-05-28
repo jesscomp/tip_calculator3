@@ -1,6 +1,6 @@
 meal_cost = 20.0 #base price of meal
 tax_percent = 12 #sales tax rate
-tip_percent = 20 #tip rate
+tip_percent = 20 #tip rate   ....added to save again.
 
 tax_value = meal_cost * tax_percent/100
 meal_with_tax = meal_cost + tax_value
